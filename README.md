@@ -38,5 +38,5 @@ K-Nearest Neighbors (KNN)
 
 \## Project Status
 
-Initial Setup
+Dataset Preparation Completed
 
