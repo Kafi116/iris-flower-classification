@@ -118,3 +118,11 @@ https://scikit-learn.org/
 
 The expected outcome is to build a classification model that can predict the species of an iris flower from its four measured features.
 
+
+
+\## 8. Project Scope
+
+
+
+The project will focus on preparing the dataset, training a KNN classification model, evaluating its performance, and analyzing the classification results.
+
